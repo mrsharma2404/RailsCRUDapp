@@ -66,3 +66,6 @@ end
 
 
 gem "webpacker", "~> 5.4"
+
+
+gem 'fast_jsonapi' #added by rohit for api
